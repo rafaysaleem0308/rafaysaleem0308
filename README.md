@@ -1,55 +1,78 @@
-# Rafay Saleem 👋
+# Hi, I'm Rafay Saleem 👋
 
-<div align="center">
-  <h2>💻 Computer Science Student | Full-Stack Developer | Game Dev Hobbyist</h2>
-  <p>📍 <strong>FAST NUCES (Chiniot-Faisalabad Campus)</strong> | Class of 2026</p>
-  <p>👨‍💻 <strong>Username:</strong> <a href="https://github.com/rafaysaleem0308" target="_blank">rafaysaleem0308</a> | 📧 <strong>Email:</strong> <a href="mailto:rafeysaleem66@gmail.com">rafeysaleem66@gmail.com</a></p>
-</div>
+💻 **Computer Science Student** | Full-Stack Dev | Game Dev Hobbyist  
+📍 **FAST NUCES (Chiniot-Faisalabad Campus)** | Class of 2026  
+👨‍💻 **Username**: rafaysaleem0308 | 📧 **Email**: rafeysaleem66@gmail.com  
 
 ---
 
 ## 🚀 Projects
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+### 🌟 [SoleStyle Website](https://github.com/rafaysaleem0308/SoleStyle_Website)
+- **Description**: E-commerce platform with responsive UI
+- **Tech Stack**:
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="max-width: 140px;" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" style="max-width: 140px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 140px;" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" style="max-width: 140px;" />
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px;">
-    <h4><a href="https://github.com/rafaysaleem0308/SoleStyle_Website" target="_blank" style="text-decoration: none; color: #3498db;">🛒 SoleStyle Website</a></h4>
-    <p>E-commerce platform with responsive UI</p>
-    <p><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Node.js</p>
-  </div>
+### 🌟 [E-Commerce DB](https://github.com/rafaysaleem0308/E-Commerce-Database)
+- **Description**: Backend DB system with product catalog, cart
+- **Tech Stack**:
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" style="max-width: 140px;" />
+  <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle" style="max-width: 140px;" />
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px;">
-    <h4><a href="https://github.com/rafaysaleem0308/E-Commerce-Database" target="_blank" style="text-decoration: none; color: #3498db;">📊 E-Commerce DB</a></h4>
-    <p>Backend DB system with product catalog, cart</p>
-    <p><strong>Tech Stack:</strong> C#, Oracle</p>
-  </div>
+### 🌟 [Social Media OOP](https://github.com/rafaysaleem0308/Social-Media-OOP-)
+- **Description**: OOP-based prototype of a social media platform
+- **Tech Stack**:
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" style="max-width: 140px;" />
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px;">
-    <h4><a href="https://github.com/rafaysaleem0308/Social-Media-OOP-" target="_blank" style="text-decoration: none; color: #3498db;">🌐 Social Media OOP</a></h4>
-    <p>OOP-based prototype of a social media platform</p>
-    <p><strong>Tech Stack:</strong> C++</p>
-  </div>
+### 🌟 [Endless Runner Game](https://github.com/rafaysaleem0308/Endless-Runner-Game)
+- **Description**: Fun arcade game built in C++
+- **Tech Stack**:
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" style="max-width: 140px;" />
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px;">
-    <h4><a href="https://github.com/rafaysaleem0308/Endless-Runner-Game" target="_blank" style="text-decoration: none; color: #3498db;">🎮 Endless Runner Game</a></h4>
-    <p>Fun arcade game built in C++</p>
-    <p><strong>Tech Stack:</strong> C++</p>
-  </div>
+### 🌟 [Guess-A-Letter](https://github.com/rafaysaleem0308/Guess-A-Letter)
+- **Description**: Word guessing game with UI
+- **Tech Stack**:
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" style="max-width: 140px;" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" style="max-width: 140px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 140px;" />
 
-</div>
+### 🌟 [Roll-Dyce Game](https://github.com/rafaysaleem0308/Roll-Dyce-Game)
+- **Description**: Interactive dice game
+- **Tech Stack**:
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" style="max-width: 140px;" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" style="max-width: 140px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 140px;" />
 
 ---
 
 ## 🧠 Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px;">
+  
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" title="C++" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" title="C#" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" title="Python" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" title="HTML5" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" title="CSS3" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" title="React" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" title="Express.js" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" style="max-width: 140px;" />
+  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" title="SQL" style="max-width: 140px;" />
 </div>
 
 ---
@@ -90,13 +113,8 @@
 
 ## 📬 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/rafaysaleem" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>  
-  <br />
-  📧 **Email**: <a href="mailto:rafeysaleem66@gmail.com">rafeysaleem66@gmail.com</a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaysaleem)  
+📧 **Email**: rafeysaleem66@gmail.com
 
 ---
 
