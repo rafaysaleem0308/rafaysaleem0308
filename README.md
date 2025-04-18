@@ -13,25 +13,25 @@
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px;">
-    <h4><a href="https://github.com/rafaysaleem0308/SoleStyle_Website" target="_blank" style="text-decoration: none; color: #3498db;">SoleStyle Website</a></h4>
+    <h4><a href="https://github.com/rafaysaleem0308/SoleStyle_Website" target="_blank" style="text-decoration: none; color: #3498db;">🛒 SoleStyle Website</a></h4>
     <p>E-commerce platform with responsive UI</p>
     <p><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Node.js</p>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px;">
-    <h4><a href="https://github.com/rafaysaleem0308/E-Commerce-Database" target="_blank" style="text-decoration: none; color: #3498db;">E-Commerce DB</a></h4>
+    <h4><a href="https://github.com/rafaysaleem0308/E-Commerce-Database" target="_blank" style="text-decoration: none; color: #3498db;">📊 E-Commerce DB</a></h4>
     <p>Backend DB system with product catalog, cart</p>
     <p><strong>Tech Stack:</strong> C#, Oracle</p>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px;">
-    <h4><a href="https://github.com/rafaysaleem0308/Social-Media-OOP-" target="_blank" style="text-decoration: none; color: #3498db;">Social Media OOP</a></h4>
+    <h4><a href="https://github.com/rafaysaleem0308/Social-Media-OOP-" target="_blank" style="text-decoration: none; color: #3498db;">🌐 Social Media OOP</a></h4>
     <p>OOP-based prototype of a social media platform</p>
     <p><strong>Tech Stack:</strong> C++</p>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px;">
-    <h4><a href="https://github.com/rafaysaleem0308/Endless-Runner-Game" target="_blank" style="text-decoration: none; color: #3498db;">Endless Runner Game</a></h4>
+    <h4><a href="https://github.com/rafaysaleem0308/Endless-Runner-Game" target="_blank" style="text-decoration: none; color: #3498db;">🎮 Endless Runner Game</a></h4>
     <p>Fun arcade game built in C++</p>
     <p><strong>Tech Stack:</strong> C++</p>
   </div>
@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
 ---
