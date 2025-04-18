@@ -1,6 +1,6 @@
 # Hi, I'm Rafey Saleem 👋  
-💻 **Computer Science Student** 
-📍 **FAST NUCES** | Class of 2026  
+💻 **Computer Science Student**|
+📍**FAST NUCES** | Class of 2026  
  📧 **Email**: rafeysaleem66@gmail.com  
 
 ---
