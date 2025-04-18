@@ -1,4 +1,4 @@
-# Hi, I'm Rafay Saleem 👋  
+# Hi, I'm Rafey Saleem 👋  
 💻 **Computer Science Student** | Full-Stack Developer | Game Dev Hobbyist  
 📍 **FAST NUCES (Chiniot-Faisalabad Campus)** | Class of 2026  
 👨‍💻 **Username**: rafaysaleem0308 | 📧 **Email**: rafeysaleem66@gmail.com  
@@ -103,7 +103,7 @@
 
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaysaleem)  
-📧 **Email**: rafeysaleem66@gmail.com
+
 
 ---
 
