@@ -66,12 +66,6 @@
   
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" style="max-width: 140px;" />
   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" title="React" style="max-width: 140px;" />
-  
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" title="Express.js" style="max-width: 140px;" />
-  
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" style="max-width: 140px;" />
-  
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" title="SQL" style="max-width: 140px;" />
 </div>
 
