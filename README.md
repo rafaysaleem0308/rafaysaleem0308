@@ -15,8 +15,6 @@
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 ### 🏷️ [E-Commerce Store](https://github.com/rafaysaleem0308/E-Commerce-Database)  
 - **Description**: Online retail system with backend database management, including product cataloging, customer data handling, shopping cart, checkout page, and user feedback system.  
@@ -91,7 +89,6 @@
 <div align="center">  
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />  
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
 </div>  
 
 ---
