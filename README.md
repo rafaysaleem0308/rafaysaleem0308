@@ -1,6 +1,7 @@
 # Hi, I'm Rafey Saleem 👋   
 
-💻 **Computer Science Student** | 🏫 **FAST NUCES** | 📧 **Email**: rafeysaleem66@gmail.com  | 📍Lahore, Pakistan
+💻 **Computer Science Student** | 🏫 **FAST NUCES** |📧 **Email**: [rafeysaleem66@gmail.com](mailto:rafeysaleem66@gmail.com)
+  | 📍Lahore, Pakistan
 
 ---
 
