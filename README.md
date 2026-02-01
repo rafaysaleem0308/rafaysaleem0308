@@ -1,8 +1,8 @@
 # Hi, I'm Rafey Saleem 👋   
 
-💻 **Computer Science Student** | 🏫 **FAST NUCES** |📧 **Email**: [rafeysaleem66@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rafeysaleem66@gmail.com)
+💻 **Computer Science Student** | 🏫 **FAST NUCES** |📧 **Email**: [rafeysaleem66@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rafeysaleem66@gmail.com)  
 
-  | 📍Lahore, Pakistan
+📍Lahore, Pakistan  
 
 ---
 
@@ -56,10 +56,41 @@
 - **Tech Stack**:  
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 
-### 🏷️ [Social Media (OOP)](https://github.com/rafaysaleem0308/Social-Media-OOP-)  
+### 🏷️ [ConnectHub](https://github.com/rafaysaleem0308/ConnectHub)  
 - **Description**: Prototype social media application applying Object-Oriented Programming principles with user profiles, post creation, and interactive social functionalities.  
 - **Tech Stack**:  
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+
+### 🏷️ [INDIELIFE](#)  
+- **Description**: Cross-platform mobile app for students and professionals living away from home. Features meal management, expense tracking, service requests, accommodation listings, and safety alerts. AI-powered insights using PyTorch and secure backend APIs with Express.js and MongoDB.  
+- **Tech Stack**:  
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+
+### 🏷️ [MediKart](#)  
+- **Description**: Healthcare e-commerce platform with React frontend and Node.js/Express backend. Features include MongoDB integration, cart and checkout, real-time chat with Socket.io, email notifications, and admin dashboard management.  
+- **Tech Stack**:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+  ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white)  
+
+### 🏷️ [Smart City Traffic Simulation](#)  
+- **Description**: Smart city traffic simulator using Python and Pygame with real-time vehicle movement, traffic signal control, and emergency route optimization.  
+- **Tech Stack**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+  ![Pygame](https://img.shields.io/badge/-Pygame-ED1C24?logo=python&logoColor=white)  
+
+### 🏷️ [Maze Escape - Save the Scientist](#)  
+- **Description**: Python/Pygame game where players navigate procedurally generated mazes with traps and one-way doors. Features dynamic difficulty, heuristic pathfinding, and a graphical interface for engaging gameplay.  
+- **Tech Stack**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+  ![Pygame](https://img.shields.io/badge/-Pygame-ED1C24?logo=python&logoColor=white)  
 
 ---
 
@@ -71,6 +102,7 @@
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />  
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />  
 </div>  
 
 ### 🌐 Frontend Technologies  
@@ -78,6 +110,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />  
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />  
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />  
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />  
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />  
 </div>  
@@ -128,8 +161,8 @@
 ---
 
 ## 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafey-saleem-a71385312)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafey-saleem-4813833a8)  
 
 ---
 
-_Thanks for visiting my profile!_ ⭐
+_Thanks for visiting my profile!_ ⭐  
