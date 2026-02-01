@@ -154,10 +154,9 @@
 
 ## 📈 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaysaleem0308&show_icons=true&theme=default&hide_title=true" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaysaleem0308&theme=default" width="48%" />  
-</p>  
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaysaleem0308&show_icons=true&theme=default&hide_title=false" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaysaleem0308&layout=compact&theme=default" width="48%" />  
+</p>
 ---
 
 ## 📬 Connect With Me  
